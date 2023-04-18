@@ -11,5 +11,3 @@ I played with the look to make it as modern as possible, but there is still work
 I have learned a lot and will continue to do so.
 
 Thank you Infotech
-
-I am attaching a pdf file that can be found above INFOTECH_Web_TASK.pdf
